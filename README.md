@@ -7,4 +7,4 @@
 4) Find out how the collision count vary with the light levels in McCormack Place (MP)
 5) Analyse and visualize the relationship between the year, number of collisions and lightscores in McCormack Place
 
-To see the data detailed data analysis please open **bird_building_collision_data_analysis.ipynb**
+To see the detailed data analysis please open **bird_building_collision_data_analysis.ipynb**
