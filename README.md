@@ -1,4 +1,4 @@
-**Analysis of bird-building collisions in Chicago with respect to night time lighting over 16 years (2000- 2016)**
+**Analysis of bird-building collisions in Chicago with respect to night time lighting over 39 years (1978- 2016)**
 
 **Aims of this analysis:**
 1) Import the CSVs for the Chicago bird-building collision data and the light level data for McCormack Place. Get a feel for the data and check for missing values.
